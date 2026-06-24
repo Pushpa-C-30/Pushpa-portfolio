@@ -7,7 +7,7 @@ A modern and responsive portfolio website built using React.js to showcase my sk
 
 🔗 Portfolio: https://Pushpa-C-30.github.io/Pushpa-portfolio
 
-💻 Github repository: https://github.com/Pushpa-C-30/Pushpa-c-portfolio
+💻 Github repository: https://github.com/Pushpa-C-30/Pushpa-portfolio
 
 
 ## 🚀 Project Overview
