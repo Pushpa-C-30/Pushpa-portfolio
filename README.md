@@ -3,7 +3,7 @@
 ---
 A modern and responsive portfolio website built using React.js to showcase my skills, education, internship experience. . developed using modern web technologies with a clean and futuristic Black & purple theme.
 
-
+---
 
 🔗 Live Portfolio: https://Pushpa-C-30.github.io/Pushpa-portfolio
 
